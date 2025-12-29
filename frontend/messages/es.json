@@ -1,0 +1,682 @@
+{
+    "Navbar": {
+        "products": "Productos",
+        "home": "Inicio",
+        "about": "Nosotros",
+        "services": "Servicios",
+        "blog": "Blog",
+        "contact": "Contacto",
+        "getStarted": "Empezar"
+    },
+    "NexaCleanPro": {
+        "title": "NexaClean Pro",
+        "subtitle": "Sistema Inteligente para Empresas de Limpieza",
+        "heroBadge": "IA Que Limpia Tu Negocio",
+        "cta": "Comprar Licencia",
+        "learnMore": "Ver Detalles",
+        "description": "NexaClean Pro es un ecosistema de automatización y sitio web inteligente impulsado por inteligencia artificial diseñado exclusivamente para empresas de limpieza en los Estados Unidos y España.",
+        "description2": "Transforma cualquier pequeña o mediana empresa de limpieza del hogar en una potencia digital.",
+        "notNormalWebsite": "Esto no es un sitio web normal — NexaClean Pro es un Sistema Operativo de Negocios completo para la industria de la limpieza.",
+        "modules": {
+            "booking": {
+                "title": "Reservas Online Inteligentes",
+                "desc": "Programación en tiempo real sincronizada con tu calendario."
+            },
+            "quote": {
+                "title": "Generador de Cotizaciones en Tiempo Real",
+                "desc": "Ofrece precios instantáneos basados en pies cuadrados o habitaciones."
+            },
+            "followup": {
+                "title": "Seguimientos Automatizados",
+                "desc": "Nunca pierdas un cliente potencial con secuencias de correo electrónico y SMS impulsadas por IA."
+            },
+            "retention": {
+                "title": "Motor de Retención de Clientes con IA",
+                "desc": "Vuelve a involucrar automáticamente a clientes pasados para servicios recurrentes."
+            },
+            "upsell": {
+                "title": "Generador de Ventas Adicionales + Reseñas",
+                "desc": "Aumenta los ingresos por reserva y construye una reputación de 5 estrellas."
+            },
+            "campaigns": {
+                "title": "Campañas Inteligentes de Email + SMS",
+                "desc": "Marketing dirigido para llenar tu agenda."
+            },
+            "social": {
+                "title": "Creación de Contenido para Redes Sociales",
+                "desc": "Publicaciones generadas por IA para mantener tu feed activo y profesional."
+            },
+            "analytics": {
+                "title": "Panel de Analítica",
+                "desc": "Rastrea ingresos, reservas y crecimiento en un solo lugar."
+            },
+            "chatbot": {
+                "title": "Chatbot Asistente de Ventas con IA",
+                "desc": "Asistente bilingüe 24/7 para responder preguntas y reservar trabajos."
+            }
+        },
+        "pricing": {
+            "title": "Estructura de Precios",
+            "subtitle": "Elige el plan perfecto para tu negocio de limpieza.",
+            "core": {
+                "name": "Sistema Principal",
+                "price": "$3,000",
+                "features": [
+                    "Motor de Reservas Inteligente",
+                    "Calculadora de Cotizaciones Instantánea",
+                    "Panel de Control del Cliente",
+                    "Panel de Control Administrativo",
+                    "Notificaciones por Correo Electrónico"
+                ]
+            },
+            "full": {
+                "name": "Sistema Completo + IA",
+                "price": "$5,000",
+                "features": [
+                    "Todo en el Sistema Principal",
+                    "Agente Chatbot con IA",
+                    "Seguimientos Automatizados",
+                    "Gestión de Reseñas",
+                    "Automatizaciones de Marketing",
+                    "Integración de SMS",
+                    "Panel de Analítica",
+                    "Gestor de Redes Sociales",
+                    "Soporte Prioritario",
+                    "Marca Personalizada"
+                ]
+            },
+            "maintenance": {
+                "name": "Mantenimiento Estándar",
+                "price": "$150/mes",
+                "features": [
+                    "Actualizaciones del Sistema",
+                    "Soporte Prioritario",
+                    "Respaldos Diarios"
+                ]
+            },
+            "maintenanceSocial": {
+                "name": "Crecimiento y Redes",
+                "price": "$350/mes",
+                "features": [
+                    "Publicaciones Semanales en Redes",
+                    "Gestión de Campañas Publicitarias",
+                    "Creación de Contenido"
+                ]
+            }
+        },
+        "whoIsFor": {
+            "title": "🌟 ¿PARA QUIÉN ES ESTO?",
+            "tagline": "Si limpian — NexaClean Pro hace crecer su negocio.",
+            "list": [
+                "Servicios de limpieza residencial",
+                "Empresas de limpieza profunda",
+                "Limpiezas de mudanza (Move-in/Move-out)",
+                "Empresas de limpieza de oficinas",
+                "Limpieza para Airbnb y alquileres vacacionales",
+                "Pequeñas y medianas agencias de limpieza",
+                "Limpiadores independientes que quieren crecer"
+            ]
+        },
+        "taglines": [
+            "IA Que Limpia Tu Negocio.",
+            "Tu Empresa de Limpieza, Actualizada con Inteligencia.",
+            "Sitios Web Inteligentes para la Industria de la Limpieza Moderna.",
+            "Automatiza. Reserva Más. Crece Más Rápido.",
+            "Del Trabajo Sucio al Trabajo Inteligente."
+        ]
+    },
+    "Home": {
+        "heroTitle": "El Futuro de la IA está Aquí",
+        "heroSubtitle": "Ayudamos a las empresas a aprovechar la inteligencia artificial para automatizar, innovar y escalar.",
+        "cta": "Explorar Servicios"
+    },
+    "TrustedBy": {
+        "title": "Confiado por empresas innovadoras"
+    },
+    "ServicesOverview": {
+        "title": "Nuestra Experiencia",
+        "subtitle": "Combinamos tecnología de IA de vanguardia con conocimientos empresariales estratégicos para ofrecer resultados tangibles.",
+        "viewAll": "Ver Todos los Servicios",
+        "consultingTitle": "Consultoría y Estrategia de IA",
+        "consultingDesc": "Analizamos su negocio para identificar oportunidades de IA de alto impacto y crear una hoja de ruta para la implementación.",
+        "automationTitle": "Automatización de Procesos",
+        "automationDesc": "Optimice las operaciones con automatización inteligente que reduce el trabajo manual y los errores.",
+        "agentsTitle": "Agentes de IA Personalizados",
+        "agentsDesc": "Implemente agentes de IA especializados que manejen soporte al cliente, análisis de datos y más, 24/7.",
+        "marketingTitle": "Marketing Impulsado por IA",
+        "marketingDesc": "Potencie su marketing con IA generativa para contenido, personalización y análisis.",
+        "learnMore": "Aprender más"
+    },
+    "Process": {
+        "title": "Cómo Transformamos Su Negocio",
+        "subtitle": "Nuestra metodología probada asegura que cada iniciativa de IA entregue valor medible y crecimiento sostenible.",
+        "discoveryTitle": "Descubrimiento",
+        "discoveryDesc": "Profundizamos en sus procesos comerciales para identificar cuellos de botella y oportunidades de IA.",
+        "strategyTitle": "Estrategia",
+        "strategyDesc": "Diseñamos un plan de implementación de IA personalizado adaptado a sus objetivos e infraestructura específicos.",
+        "developmentTitle": "Desarrollo",
+        "developmentDesc": "Nuestros ingenieros construyen y entrenan sus soluciones de IA utilizando modelos y herramientas de última generación.",
+        "deploymentTitle": "Implementación",
+        "deploymentDesc": "Integramos perfectamente la solución en su flujo de trabajo y brindamos capacitación para su equipo."
+    },
+    "AISection": {
+        "title": "Experimente el Futuro de la Interacción",
+        "subtitle": "Nuestro sitio web no es solo un folleto, es una demostración de lo que es posible.",
+        "subtitle2": "Interactúe con nuestras herramientas impulsadas por IA para obtener recomendaciones y respuestas instantáneas.",
+        "assistantName": "Asistente Nexa-Sphere AI",
+        "assistantGreeting": "¡Hola! Soy tu asistente Nexa-Sphere. ¿Cómo puedo ayudar a optimizar tu negocio hoy?",
+        "userQuery": "Necesito una solución para automatizar mi flujo de trabajo de atención al cliente.",
+        "aiResponse": "Recomiendo nuestro servicio de Agentes de IA Personalizados. Podemos implementar un agente de soporte 24/7 entrenado en su base de conocimientos.",
+        "tagResponseTime": "Tiempo de Respuesta Reducido",
+        "tagAvailability": "Disponibilidad 24/7",
+        "poweredBy": "Impulsado por Google Gemini",
+        "feature1": "Recomendador de Servicios AI: Encuentre la solución perfecta para sus necesidades.",
+        "feature2": "Asistente de Preguntas Frecuentes Inteligente: Obtenga respuestas instantáneas a sus preguntas.",
+        "feature3": "Formulario de Contacto Inteligente: Redacte mensajes sin esfuerzo.",
+        "cta": "Probar Herramientas de IA (Próximamente)"
+    },
+    "Testimonials": {
+        "title": "Historias de Éxito de Clientes",
+        "subtitle": "Vea cómo las empresas líderes están aprovechando nuestras soluciones de IA para impulsar el crecimiento.",
+        "quote1": "Nexa-Sphere transformó nuestras operaciones de atención al cliente. Los agentes de IA manejan el 80% de las consultas, permitiendo a nuestro equipo enfocarse en problemas complejos.",
+        "role1": "Propietaria, Vallarta Vows",
+        "quote2": "Los conocimientos estratégicos proporcionados por Nexa-Sphere nos ayudaron a identificar oportunidades clave de automatización que nos ahorraron más de $200k anuales.",
+        "role2": "Director de Operaciones, FutureScale",
+        "quote3": "La implementación fue perfecta. El equipo de Nexa-Sphere realmente entiende cómo integrar la IA en los flujos de trabajo empresariales existentes.",
+        "role3": "Líder de Producto, InnovateX"
+    },
+    "CTASection": {
+        "title": "¿Listo para Transformar Su Negocio? Hablemos.",
+        "subtitle": "Únase a las empresas con visión de futuro que ya están aprovechando las soluciones de IA de Nexa-Sphere para dominar sus industrias.",
+        "primaryBtn": "Reservar Consulta Gratuita",
+        "secondaryBtn": "Ver Casos de Estudio",
+        "note": "Sin compromiso requerido. Obtenga una hoja de ruta de IA personalizada en nuestra primera llamada."
+    },
+    "LocaleSwitcher": {
+        "label": "Idioma",
+        "en": "Inglés",
+        "es": "Español"
+    },
+    "ServicesPage": {
+        "heroBadge": "Nuestra Experiencia",
+        "heroTitle": "Transformando Negocios A Través de la Inteligencia",
+        "heroDesc": "Soluciones integrales de IA diseñadas para impulsar la innovación, la eficiencia y el crecimiento en su empresa.",
+        "discussBtn": "Discutir {service}",
+        "services": {
+            "consulting": {
+                "title": "Consultoría y Estrategia de IA",
+                "description": "Navegue por el complejo panorama de la inteligencia artificial con nuestra orientación experta. Le ayudamos a identificar oportunidades de alto impacto, evaluar la viabilidad técnica y crear una hoja de ruta para una adopción exitosa de la IA.",
+                "f1": "Evaluación de Preparación para IA",
+                "f2": "Desarrollo de Hoja de Ruta Estratégica",
+                "f3": "Selección de Pila Tecnológica",
+                "f4": "Análisis y Previsión de ROI"
+            },
+            "automation": {
+                "title": "Automatización de Procesos",
+                "description": "Transforme sus operaciones automatizando tareas y flujos de trabajo repetitivos. Construimos sistemas inteligentes que reducen el esfuerzo manual, minimizan errores y liberan a su equipo para el trabajo estratégico.",
+                "f1": "Análisis y Optimización de Flujos de Trabajo",
+                "f2": "RPA (Automatización Robótica de Procesos)",
+                "f3": "Procesamiento Inteligente de Documentos",
+                "f4": "Automatización de la Cadena de Suministro"
+            },
+            "agents": {
+                "title": "Agentes de IA y Chatbots Personalizados",
+                "description": "Implemente agentes de IA especializados que entiendan su contexto comercial. Desde soporte al cliente 24/7 hasta recuperación de conocimiento interno, nuestros agentes personalizados brindan interacciones precisas y personalizadas.",
+                "f1": "Agentes de Soporte al Cliente",
+                "f2": "Asistentes de Conocimiento Interno",
+                "f3": "Bots de Ventas y Generación de Leads",
+                "f4": "Integración Multiplataforma (Web, Slack, Teams)"
+            },
+            "marketing": {
+                "title": "Sistemas de Marketing Impulsados por IA",
+                "description": "Potencie sus esfuerzos de marketing con IA generativa. Cree contenido personalizado a escala, optimice el gasto publicitario con análisis predictivos e involucre a los clientes con campañas hiperdirigidas.",
+                "f1": "Motores de Contenido Generativo",
+                "f2": "Algoritmos de Personalización",
+                "f3": "Análisis Predictivo de Clientes",
+                "f4": "Gestión Automatizada de Campañas"
+            },
+            "executive-branding": {
+                "title": "Marca Ejecutiva con IA",
+                "description": "Escale su liderazgo intelectual sin sacrificar su tiempo. Construimos modelos de IA personalizados que capturan su voz única, permitiéndole publicar ideas profesionales consistentes y de alto impacto en todos los canales.",
+                "f1": "Verificación y Clonación de Voz",
+                "f2": "Automatización de Liderazgo Intelectual",
+                "f3": "Estrategia para LinkedIn y Twitter",
+                "f4": "Calendario de Contenido Personalizado"
+            },
+            "corporate-comms": {
+                "title": "Automatización de Comms Corporativas",
+                "description": "Optimice los mensajes internos y externos de su organización. Ya sean comunicados de prensa, memorandos internos o actualizaciones para las partes interesadas, nuestros sistemas de IA garantizan una consistencia tonal perfecta y una implementación rápida.",
+                "f1": "Comunicados de Prensa Automatizados",
+                "f2": "Generación de Memorandos Internos",
+                "f3": "Flujos de Trabajo de Actualización de Stakeholders",
+                "f4": "Plantillas de Comunicación de Crisis"
+            },
+            "crisis-management": {
+                "title": "Defensa de Reputación y Crisis con IA",
+                "description": "Proteja la narrativa de su marca en tiempo real. Nuestros modelos centinela monitorean el sentimiento global 24/7, detectando crisis potenciales antes de que se intensifiquen y generando respuestas precisas para neutralizar las relaciones públicas negativas.",
+                "f1": "Vigilancia de Sentimiento 24/7",
+                "f2": "Modelado Predictivo de Crisis",
+                "f3": "Escenarios de Respuesta Automatizados",
+                "f4": "Paneles de Salud de Marca"
+            },
+            "global-localization": {
+                "title": "Localización Global de Contenido",
+                "description": "Publique su mensaje profesional al mundo, al instante. Utilizamos traducción neuronal consciente del contexto para adaptar su contenido a más de 100 idiomas, preservando su voz de marca única y los matices culturales en cada mercado.",
+                "f1": "Traducción Automática Neuronal (NMT)",
+                "f2": "Adaptación de Matices Culturales",
+                "f3": "SEO Multilingüe",
+                "f4": "Sincronización de Contenido en Tiempo Real"
+            },
+            "express-video": {
+                "title": "Producción de Video IA Exprés",
+                "description": "¿Necesita un video promocional de alta calidad en 2 horas? Aprovechamos herramientas como Suno, Kling, Pika y HeyGen para entregar videos de 20 segundos de calidad de estudio desde solo $25.",
+                "f1": "Entrega Rápida en 2 Horas",
+                "f2": "Guion y Voz en Off con IA",
+                "f3": "Estilos Cinematográficos y Corporativos",
+                "f4": "Música Completa y Subtítulos incluidos"
+            },
+            "rapid-website": {
+                "title": "Lanzamiento Web con IA el Mismo Día",
+                "description": "Obtenga un sitio web profesional listo para SEO en 24 horas. Combinamos el rendimiento de Hostinger, la flexibilidad de Avada y el contenido de IA generativa para ofrecer una presencia lista para el mercado desde $150.",
+                "f1": "Entrega en 24 Horas",
+                "f2": "Alojamiento + Configuración de Dominio Incluidos",
+                "f3": "Redacción con IA (ChatGPT/Gemini)",
+                "f4": "Arquitectura WordPress + Avada"
+            },
+            "mini-automation": {
+                "title": "Configuración Mini de Automatización IA",
+                "description": "Impulse su eficiencia por solo $100. Configuramos sus flujos de trabajo automatizados esenciales para redes sociales y ventas, convirtiendo sus canales pasivos en motores de crecimiento activo.",
+                "f1": "Publicación Automática en Redes (IG/TikTok)",
+                "f2": "Implementación de Chatbot de Ventas",
+                "f3": "Automatización de Marketing por Correo",
+                "f4": "Guiones de Contenido Generados Automáticamente"
+            },
+            "business-starter": {
+                "title": "Kit de Inicio de Negocios con IA",
+                "description": "Lance su marca hoy por solo $500. Proporcionamos todo lo que necesita para ir de cero a uno: Logotipo, activos visuales, página de destino, video promocional y una estrategia de contenido de 7 días.",
+                "f1": "Logotipo IA y 5 Imágenes Profesionales",
+                "f2": "Mini Página de Destino (One-Pager)",
+                "f3": "Video de Presentación IA de 30s",
+                "f4": "Plan de Contenido de Redes Sociales de 7 Días"
+            }
+        }
+    },
+    "ServicesBundles": {
+        "title": "🚀 Paquetes de Web, Marketing e IA de Nexa-Sphere",
+        "subtitle": "Todos los paquetes son Potenciados por IA · Enfocados en Conversión · Escalables",
+        "bundles": {
+            "starter": {
+                "name": "AI Launch Starter",
+                "badge": "🟢 PAQUETE 1",
+                "bestFor": "Pequeñas empresas, solopreneurs",
+                "goal": "Estar en línea rápido + capturar leads",
+                "price": "$1,299",
+                "maintenance": "+ $100/mes mantenimiento",
+                "shortFeatures": [
+                    "Sitio Web IA de 5 Páginas",
+                    "Chatbot básico de IA",
+                    "Formularios Inteligentes",
+                    "6 Publicaciones en Redes"
+                ],
+                "modules": [
+                    {
+                        "title": "1️⃣ Sitio Web Optimizado por IA (5 Páginas)",
+                        "items": [
+                            "Inicio, Servicios, Nosotros, Contacto, Lead Page",
+                            "UI/UX Moderna (mobile-first)",
+                            "Estructura lista para SEO"
+                        ]
+                    },
+                    {
+                        "title": "2️⃣ Chatbot de IA (Asistente de Leads)",
+                        "items": [
+                            "Entrenado en información del negocio",
+                            "Captura: Nombre, Email, Teléfono",
+                            "Auto-responde 24/7"
+                        ]
+                    }
+                ],
+                "outcome": [
+                    "✔ Presencia profesional en línea",
+                    "✔ Leads capturados automáticamente"
+                ]
+            },
+            "growth": {
+                "name": "AI Growth Accelerator",
+                "badge": "🔵 PAQUETE 2",
+                "bestFor": "Empresas en crecimiento y agencias",
+                "goal": "Automatizar leads + marketing",
+                "price": "$2,500",
+                "maintenance": "+ $300/mes plan de crecimiento",
+                "shortFeatures": [
+                    "Sitio Avanzado de 8-10 Páginas",
+                    "Chatbot de Ventas Inteligente",
+                    "12 Posts + 6 Reels",
+                    "Automatización de Email Marketing"
+                ],
+                "modules": [
+                    {
+                        "title": "1️⃣ Sitio Web Avanzado (8–10 Páginas)",
+                        "items": [
+                            "Diseño de conversión UX",
+                            "Analítica (GA4 + eventos)"
+                        ]
+                    },
+                    {
+                        "title": "2️⃣ Chatbot de Ventas con IA",
+                        "items": [
+                            "Califica leads (presupuesto, intención)",
+                            "Integración CRM"
+                        ]
+                    }
+                ],
+                "outcome": [
+                    "✔ Flujo de leads predecible",
+                    "✔ Seguimientos automatizados"
+                ]
+            },
+            "dominator": {
+                "name": "AI Market Dominator",
+                "badge": "🟣 PAQUETE 3",
+                "bestFor": "Franquicias y SaaS",
+                "goal": "Automatización total + crecimiento agresivo",
+                "price": "$5,000",
+                "maintenance": "+ $500/mes Ops de IA",
+                "shortFeatures": [
+                    "Sitio Personalizado Enterprise",
+                    "Agente de Ventas Completo",
+                    "30+ Posts & 15 Reels",
+                    "CRM Completo y Automatización de Anuncios"
+                ],
+                "modules": [
+                    {
+                        "title": "1️⃣ Sitio Web Enterprise",
+                        "items": [
+                            "UI/UX Personalizado + Embudos",
+                            "Estructura de Tests A/B"
+                        ]
+                    },
+                    {
+                        "title": "2️⃣ Agente de IA Avanzado",
+                        "items": [
+                            "Agenda citas",
+                            "Integración WhatsApp"
+                        ]
+                    }
+                ],
+                "outcome": [
+                    "✔ El negocio funciona 24/7 con IA",
+                    "✔ Sistema escalable"
+                ]
+            }
+        },
+        "comparison": {
+            "title": "Comparar Planes",
+            "subtitle": "Desglose detallado de lo que está incluido.",
+            "headers": [
+                "Característica",
+                "Starter",
+                "Growth",
+                "Dominator"
+            ],
+            "rows": [
+                {
+                    "name": "Páginas Web",
+                    "starter": "5 Páginas",
+                    "growth": "8-10 Páginas",
+                    "dominator": "Personalizado / Enterprise"
+                },
+                {
+                    "name": "Chatbot IA",
+                    "starter": "Captura Básica de Leads",
+                    "growth": "Embudo de Ventas Inteligente",
+                    "dominator": "Agente de Ventas Completo"
+                },
+                {
+                    "name": "Posts Redes (Mensual)",
+                    "starter": "6 Posts",
+                    "growth": "12 Posts",
+                    "dominator": "30+ Posts"
+                },
+                {
+                    "name": "Reels de Video (Mensual)",
+                    "starter": "2 Reels",
+                    "growth": "6 Reels",
+                    "dominator": "15+ Reels"
+                },
+                {
+                    "name": "Automatización Email",
+                    "starter": "—",
+                    "growth": "Secuencia de 5-Correos",
+                    "dominator": "Flujos CRM Completos"
+                },
+                {
+                    "name": "Formularios Inteligentes",
+                    "starter": "Lógica Básica",
+                    "growth": "Embudo Multi-paso",
+                    "dominator": "Generación de Leads Enterprise"
+                },
+                {
+                    "name": "Analítica",
+                    "starter": "Configuración Básica",
+                    "growth": "GA4 + Tracking",
+                    "dominator": "Análisis Profundo Mensual"
+                },
+                {
+                    "name": "Integración CRM",
+                    "starter": "Listo (Zapier)",
+                    "growth": "Integración Completa",
+                    "dominator": "Flujos de Trabajo Personalizados"
+                },
+                {
+                    "name": "Reserva de Citas",
+                    "starter": "Integración de Enlace",
+                    "growth": "Sincronización de Calendario",
+                    "dominator": "Auto-Reserva con IA"
+                }
+            ]
+        },
+        "cta": "Empezar"
+    },
+    "AboutPage": {
+        "heroBadge": "Quiénes Somos",
+        "heroTitle": "Pioneros en el Futuro de la Inteligencia Artificial",
+        "heroDesc": "Somos un equipo de ingenieros, científicos de datos y estrategas dedicados a llevar el poder de la IA a las empresas modernas.",
+        "leadershipTitle": "Equipo de Liderazgo",
+        "leadershipDesc": "Conozca a los visionarios que impulsan a Nexa-Sphere.",
+        "roles": {
+            "ceo": "Director Ejecutivo",
+            "cpo": "Director de Producto",
+            "people": "Directora de Personas",
+            "analyst": "Analista Jefe"
+        },
+        "missionTitle": "Nuestra Misión",
+        "missionDesc1": "En Nexa-Sphere, nuestra misión es democratizar el acceso a la inteligencia artificial avanzada. Creemos que la IA no debería ser una caja negra reservada para los gigantes tecnológicos.",
+        "missionDesc2": "Nos esforzamos por construir sistemas de IA transparentes, éticos y altamente efectivos que resuelvan problemas del mundo real e impulsen un crecimiento sostenible para nuestros clientes.",
+        "stats": {
+            "projects": "Proyectos Entregados",
+            "retention": "Retención de Clientes",
+            "support": "Cobertura de Soporte",
+            "roi": "Promedio de ROI"
+        },
+        "whyTitle": "¿Por Qué Elegirnos?",
+        "whyDesc": "No solo escribimos código; construimos asociaciones.",
+        "reasons": {
+            "r1_title": "Experiencia en Silicon Valley",
+            "r1_desc": "No se trata solo de tecnología; sino de crear sistemas que resuelvan problemas reales. Se trata de devolver tiempo a las personas para que puedan enfocarse en lo que mejor saben hacer: crear, liderar e innovar.",
+            "r2_title": "Soluciones a Medida",
+            "r2_desc": "No creemos en la talla única. Cada solución está diseñada a medida para sus necesidades.",
+            "r3_title": "IA Ética Primero",
+            "r3_desc": "Priorizamos la seguridad, la privacidad y la transparencia en cada modelo que implementamos."
+        }
+    },
+    "BlogPage": {
+        "title": "Percepciones e Inteligencia",
+        "subtitle": "Explorando las fronteras de la IA, la automatización y la transformación digital. Manténgase a la vanguardia con nuestras últimas investigaciones y actualizaciones.",
+        "readTime": "5 min de lectura",
+        "readArticle": "Leer Artículo"
+    },
+    "ContactPage": {
+        "heroTitle": "Ponte en Contacto",
+        "heroDesc": "¿Listo para comenzar tu viaje de IA? Nos encantaría saber de ti.",
+        "infoTitle": "Información de Contacto",
+        "headquarters": "Sede Central",
+        "email": "Correo Electrónico",
+        "concierge": {
+            "status": "Sistema en Línea",
+            "title": "Conserje Inteligente NexaSphere",
+            "desc": "Experimente el soporte del futuro. Nuestra red neuronal avanzada está lista para asistirlo en tiempo real.",
+            "btn": "Inicializar Interfaz de Chat"
+        },
+        "form": {
+            "name": "Nombre",
+            "namePlaceholder": "Juan Pérez",
+            "email": "Correo Electrónico",
+            "emailPlaceholder": "juan@empresa.com",
+            "subject": "Asunto",
+            "subjects": {
+                "general": "Consulta General",
+                "consulting": "Servicios de Consultoría",
+                "partnership": "Asociación",
+                "careers": "Carreras"
+            },
+            "message": "Mensaje",
+            "messagePlaceholder": "Cuéntanos sobre tu proyecto...",
+            "btn": "Enviar Mensaje",
+            "btnLoading": "Enviando...",
+            "success": "¡Mensaje enviado con éxito!",
+            "error": "Error al enviar el mensaje."
+        }
+    },
+    "AgencyOfferPage": {
+        "title": "Ofertas de IA Imparables",
+        "subtitle": "Escala tu negocio con nuestros paquetes de crecimiento a medida.",
+        "description": "Selecciona el nivel perfecto para lanzar, crecer o dominar tu mercado.",
+        "packages": {
+            "ignite": {
+                "name": "Social Ignite",
+                "price": "$120",
+                "badge": "Oferta Express",
+                "description": "Perfecto para dar un impulso rápido y aumentar tu engagement.",
+                "f1": "1 Reel Publicitario de Alta Conversión",
+                "f2": "Guion profesional + copy + hashtags",
+                "f3": "Optimizado para TikTok, Instagram y Facebook",
+                "f4": "Entrega en 48 horas"
+            },
+            "growth": {
+                "name": "Growth Accelerator",
+                "price": "$350",
+                "badge": "Mejor Valor",
+                "description": "Ideal para marcas que quieren presencia constante y crecimiento real.",
+                "f1": "3 Reels de Alta Conversión",
+                "f2": "Branding profesional adaptado a tu estilo",
+                "f3": "Llamadas a la Acción optimizadas para ventas",
+                "f4": "Voz en off profesional (masculina o femenina)"
+            },
+            "dominator": {
+                "name": "Market Dominator",
+                "price": "$1,500",
+                "badge": "Para Grandes Jugadores",
+                "description": "Sistema completo de crecimiento mensual para negocios que quieren escalar rápido.",
+                "f1": "12 Videos profesionales (1 por cada 2–3 días)",
+                "f2": "Páginas de destino de Alta Conversión",
+                "f3": "Optimización SEO para posicionamiento",
+                "f4": "Automatizaciones de marketing (funnels, acciones auto.)"
+            },
+            "elite": {
+                "name": "SV Elite System",
+                "price": "$2,500",
+                "badge": "Todo en Uno",
+                "description": "La infraestructura digital definitiva para dominar tu mercado.",
+                "f1": "Sitio Web profesional de 6 páginas (Estilo SV)",
+                "f2": "Integración de Chatbot con IA (ventas o soporte)",
+                "f3": "Plantillas de Email Marketing listas para usar",
+                "f4": "Configuración completa de boletín mensual"
+            }
+        },
+        "cta": "Empezar Ahora",
+        "faqTitle": "Preguntas Frecuentes",
+        "faqSubtitle": "Todo lo que necesitas saber antes de empezar.",
+        "faq": {
+            "q1": "¿Qué necesito para empezar con cualquiera de los paquetes?",
+            "a1": "Solo necesitamos que completes un breve formulario con información sobre tu negocio, tu público objetivo, tu oferta principal y los enlaces a tus redes sociales. Con eso, nuestro equipo puede comenzar a trabajar de inmediato.",
+            "q2": "¿Puedo revisar el contenido antes de que se publique?",
+            "a2": "Sí. Siempre enviamos los guiones, copies, bocetos y videos en versión preliminar para que puedas revisarlos. Puedes solicitar ajustes razonables hasta que el contenido esté totalmente alineado con tu marca.",
+            "q3": "¿Qué plataformas están cubiertas en los paquetes?",
+            "a3": "Todos los paquetes están optimizados para TikTok, Instagram Reels y Facebook Reels. En planes avanzados podemos adaptar los formatos para YouTube Shorts, ads verticales, o cualquier otra plataforma de video corto.",
+            "q4": "¿Quién realiza la voz en off y los guiones?",
+            "a4": "Contamos con guionistas y locutores profesionales. En Growth Accelerator y superiores, incluimos voz en off humana (masculina o femenina). Si prefieres IA de alta calidad, también es posible.",
+            "q5": "¿Qué pasa si no me gusta el resultado del primer video?",
+            "a5": "Nuestro objetivo es que estés encantado. Por eso realizamos los ajustes necesarios en guion, copy, ritmo, estilo visual o voz hasta cumplir con el estándar de calidad que esperas (dentro del alcance del paquete contratado).",
+            "q6": "¿Puedo cambiar de paquete más adelante?",
+            "a6": "Claro. Puedes comenzar con Social Ignite y luego subir a Growth Accelerator o Market Dominator cuando quieras aumentar tu producción y resultados. La escalabilidad es parte de la estrategia.",
+            "q7": "¿Los resultados están garantizados?",
+            "a7": "Nadie puede garantizar ventas específicas, pero sí garantizamos: Contenido profesional, Optimizado para conversión, Diseñado con estrategias probadas en marketing digital y Adaptado al comportamiento actual de las plataformas. Esto aumenta significativamente tus posibilidades de crecer.",
+            "q8": "¿Cómo se realiza el pago y la facturación?",
+            "a8": "El pago puede realizarse mediante tarjeta, transferencia bancaria u otros métodos seguros. En paquetes mensuales como Market Dominator, configuramos la facturación recurrente para que tu producción nunca se detenga.",
+            "q9": "¿En cuánto tiempo recibo mis videos o contenido?",
+            "a9": "Depende del paquete: Social Ignite → 48 horas. Growth Accelerator → 3 a 5 días. Market Dominator → Producción mensual continua. SV Elite System → Cronograma acordado según el alcance del proyecto. Siempre trabajamos con máxima eficiencia y puntualidad.",
+            "q10": "¿Puedo usar mis propios clips, fotos o materiales?",
+            "a10": "Sí. Puedes enviarnos tus propios materiales y nosotros los usamos para reforzar tu identidad visual. También podemos generar contenido desde cero con material propio, material premium y/o IA.",
+            "q11": "¿Incluyen música sin copyright?",
+            "a11": "Sí. Todos los videos incluyen música libre de derechos o con licencia comercial válida. Nunca tendrás problemas por reclamaciones de copyright.",
+            "q12": "¿Ofrecen contenido en inglés y español?",
+            "a12": "Sí. Podemos crear todo tu contenido: 100% en español, 100% en inglés o Versión bilingüe. Ideal para negocios que venden en EE.UU., LATAM o ambos mercados."
+        }
+    },
+    "AgencyOnboarding": {
+        "title": "¡Pago Exitoso!",
+        "description": "¡Gracias por unirte a nuestra agencia! Para comenzar de inmediato, necesitamos algunos detalles sobre tu negocio.",
+        "formTitle": "Información de Incorporación",
+        "businessName": "Nombre del Negocio",
+        "businessNamePlaceholder": "ej. Nexa-Sphere Inc.",
+        "businessOwner": "Nombre del Dueño",
+        "businessOwnerPlaceholder": "ej. Juan Pérez",
+        "businessCategory": "Categoría de Negocio",
+        "businessCategoryPlaceholder": "ej. E-commerce, Inmobiliaria",
+        "businessPhone": "Teléfono del Negocio",
+        "businessPhonePlaceholder": "ej. +1 555-0123",
+        "website": "Sitio Web",
+        "websitePlaceholder": "ej. www.nexa-sphere.com",
+        "socialLinks": "Canales de Redes Sociales",
+        "socialLinksPlaceholder": "Facebook, Instagram, TikTok, Youtube",
+        "offerDetails": "Detalles del Producto/Servicio",
+        "offerDetailsPlaceholder": "Cuéntanos sobre los productos y servicios que ofreces con más detalle...",
+        "files": "Subir Archivos",
+        "logo": "Subir Logo",
+        "productImages": "Subir Fotos de Servicios o Productos",
+        "otherImages": "Otras Imágenes",
+        "needContentCreation": "No tengo fotos, por favor créenlas para mí",
+        "submit": "Enviar Información",
+        "submitting": "Enviando...",
+        "successTitle": "¡Información Recibida!",
+        "successMessage": "Nuestro equipo ha recibido tus detalles y comenzará a trabajar en tu estrategia. Espera un correo nuestro pronto.",
+        "errorMessage": "Hubo un error al enviar tu información. Por favor intenta de nuevo o contacta a soporte.",
+        "returnHome": "Volver al Inicio"
+    },
+    "Footer": {
+        "newsletterTitle": "Mantente a la vanguardia",
+        "newsletterDesc": "Suscríbete a nuestro boletín para las últimas novedades de IA.",
+        "companyDesc": "Empoderando negocios con soluciones inteligentes de IA para la era moderna.",
+        "servicesTitle": "Servicios",
+        "consulting": "Consultoría IA",
+        "automation": "Automatización",
+        "chatbots": "Chatbots IA",
+        "companyTitle": "Empresa",
+        "about": "Nosotros",
+        "blog": "Blog",
+        "contact": "Contacto",
+        "connectTitle": "Conectar",
+        "linkedin": "LinkedIn",
+        "twitter": "Twitter",
+        "contactEmail": "hello@nexa-sphere.com",
+        "copyright": "© {year} Nexa-Sphere. Todos los derechos reservados."
+    },
+    "Login": {
+        "title": "Iniciar Sesión",
+        "username": "Usuario",
+        "password": "Password",
+        "signIn": "Entrar",
+        "error": "Credenciales inválidas"
+    }
+}

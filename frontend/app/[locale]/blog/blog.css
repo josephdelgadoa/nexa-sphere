@@ -1,0 +1,234 @@
+:root {
+  --geo-spacing: 20px;
+  --geo-max-width: 700px;
+  --geo-font-base: 20px;
+  /* 18px-20px requirement */
+  --geo-line-height: 1.6;
+  --geo-color-text: #2d3748;
+  --geo-color-heading: #1a202c;
+  --geo-color-accent: #3182ce;
+  --geo-color-bg-capsule: #f7fafc;
+  --geo-border-capsule: #e2e8f0;
+}
+
+/* Dark mode overrides if applicable, simplistic approach */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --geo-color-text: #e2e8f0;
+    --geo-color-heading: #f7fafc;
+    --geo-color-bg-capsule: #2d3748;
+    --geo-border-capsule: #4a5568;
+  }
+}
+
+.geo-article-container {
+  width: 100%;
+  padding-left: var(--geo-spacing);
+  padding-right: var(--geo-spacing);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* 1. VISUAL & LAYOUT REQUIREMENTS */
+.geo-article-content {
+  max-width: var(--geo-max-width);
+  /* 650px – 700px max-width */
+  margin: 0 auto;
+  font-size: var(--geo-font-base);
+  line-height: var(--geo-line-height);
+  color: var(--geo-color-text);
+  font-family: system-ui, -apple-system, sans-serif;
+  /* Or your specific font */
+}
+
+/* Headings */
+.geo-article-content h1 {
+  font-size: 2.8rem;
+  /* 2.5rem+ */
+  line-height: 1.2;
+  margin-bottom: 1.5rem;
+  color: var(--geo-color-heading);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.geo-article-content h2 {
+  font-size: 2rem;
+  margin-top: 2.5em;
+  /* 2em+ breathing room */
+  margin-bottom: 1em;
+  color: var(--geo-color-heading);
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.geo-article-content h3 {
+  font-size: 1.5rem;
+  margin-top: 2em;
+  margin-bottom: 0.75em;
+  color: var(--geo-color-heading);
+  font-weight: 600;
+}
+
+.geo-article-content p {
+  margin-bottom: 1.5em;
+}
+
+.geo-article-content h4 {
+  font-size: 1.25rem;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  color: var(--geo-color-heading);
+  font-weight: 600;
+}
+
+.geo-article-content ul,
+.geo-article-content ol {
+  margin-bottom: 1.5em;
+  padding-left: 1.5em;
+  color: var(--geo-color-text);
+}
+
+.geo-article-content ul {
+  list-style-type: disc;
+}
+
+.geo-article-content ol {
+  list-style-type: decimal;
+}
+
+.geo-article-content li {
+  margin-bottom: 0.5em;
+}
+
+.geo-article-content blockquote {
+  border-left: 4px solid var(--geo-color-accent);
+  padding-left: 1rem;
+  margin: 1.5rem 0;
+  font-style: italic;
+  color: var(--geo-text-muted, #718096);
+  background: var(--geo-color-bg-capsule);
+  padding: 1rem;
+  border-radius: 0 8px 8px 0;
+}
+
+.geo-article-content a {
+  color: var(--geo-color-accent);
+  text-decoration: underline;
+}
+
+/* 2. CONTENT STRATEGY (GEO & E-E-A-T) */
+
+/* The "Answer Capsule" */
+.geo-answer-capsule {
+  background-color: var(--geo-color-bg-capsule);
+  border: 1px solid var(--geo-border-capsule);
+  border-left: 5px solid var(--geo-color-accent);
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin-bottom: 3rem;
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.geo-answer-capsule strong {
+  color: var(--geo-color-accent);
+  display: block;
+  margin-bottom: 0.5rem;
+  text-transform: uppercase;
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+}
+
+/* E-E-A-T Author Block */
+.geo-author-block {
+  display: flex;
+  align-items: center;
+  margin-bottom: 3rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--geo-border-capsule);
+  font-size: 0.9rem;
+  color: var(--geo-color-text);
+  opacity: 0.9;
+}
+
+.geo-author-block img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 1rem;
+  object-fit: cover;
+}
+
+.geo-author-info {
+  display: flex;
+  flex-direction: column;
+}
+
+.geo-author-name {
+  font-weight: 700;
+  color: var(--geo-color-heading);
+  text-decoration: none;
+}
+
+.geo-author-name:hover {
+  text-decoration: underline;
+}
+
+.geo-last-updated {
+  font-size: 0.8rem;
+  opacity: 0.8;
+  margin-top: 0.2rem;
+}
+
+/* Feature Cards Grid */
+.geo-feature-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  margin: 3rem 0;
+  /* Break out of the narrow text column to use full container width if desired, 
+     but here we keep it within flow or slightly wider */
+}
+
+@media (min-width: 768px) {
+  .geo-feature-grid {
+    grid-template-columns: repeat(3, 1fr);
+    /* Optional: make it wider than the text content if the container allows */
+    width: 100%;
+  }
+}
+
+.geo-feature-card {
+  background: var(--geo-color-bg-capsule);
+  border: 1px solid var(--geo-border-capsule);
+  padding: 1.5rem;
+  border-radius: 12px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.geo-feature-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.05);
+}
+
+.geo-feature-card h3 {
+  margin-top: 0;
+  font-size: 1.25rem;
+  margin-bottom: 0.75rem;
+  color: var(--geo-color-accent);
+}
+
+.geo-feature-card p {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  margin-bottom: 0;
+}
+
+/* Images */
+.geo-article-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin: 2rem 0;
+}

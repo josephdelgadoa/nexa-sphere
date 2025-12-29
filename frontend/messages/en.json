@@ -1,0 +1,774 @@
+{
+    "Navbar": {
+        "products": "Products",
+        "home": "Home",
+        "about": "About",
+        "services": "Services",
+        "bestPrice": "Best Price",
+        "ourPackages": "Our Packages",
+        "viewDetails": "View Details",
+        "blog": "Blog",
+        "contact": "Contact",
+        "getStarted": "Get Started"
+    },
+    "NexaCleanPro": {
+        "title": "NexaClean Pro",
+        "subtitle": "AI System for Cleaning Businesses",
+        "heroBadge": "AI That Cleans Up Your Business",
+        "cta": "Purchase License",
+        "learnMore": "Learn More",
+        "description": "NexaClean Pro is an AI-powered smart website and automation ecosystem designed exclusively for cleaning companies in the United States and Spain.",
+        "description2": "It transforms any small or medium home-cleaning business into a digital powerhouse.",
+        "notNormalWebsite": "This is not a normal website — NexaClean Pro is a complete Business Operating System for the Cleaning Industry.",
+        "modules": {
+            "booking": {
+                "title": "Intelligent Online Booking",
+                "desc": "Real-time scheduling synced with your calendar."
+            },
+            "quote": {
+                "title": "Real-time Quote Generator",
+                "desc": "Give instant prices based on square footage or rooms."
+            },
+            "followup": {
+                "title": "Automated Follow-ups",
+                "desc": "Never lose a lead with AI-driven email and SMS sequences."
+            },
+            "retention": {
+                "title": "AI Customer Retention Engine",
+                "desc": "Automatically re-engage past clients for recurring service."
+            },
+            "upsell": {
+                "title": "Upsell + Review Generator",
+                "desc": "Boost revenue per booking and build 5-star reputation."
+            },
+            "campaigns": {
+                "title": "Smart Email + SMS Campaigns",
+                "desc": "Targeted marketing to fill your schedule."
+            },
+            "social": {
+                "title": "Social Media Content Creation",
+                "desc": "AI-generated posts to keep your feed active and professional."
+            },
+            "analytics": {
+                "title": "Analytics Dashboard",
+                "desc": "Track revenue, bookings, and growth in one place."
+            },
+            "chatbot": {
+                "title": "AI Sales Assistant Chatbot",
+                "desc": "24/7 bilingual assistant to answer questions and book jobs."
+            }
+        },
+        "pricing": {
+            "title": "Pricing Structure",
+            "subtitle": "Choose the perfect plan for your cleaning business.",
+            "core": {
+                "name": "Core System",
+                "price": "$3,000",
+                "features": [
+                    "Smart Booking Engine",
+                    "Instant Quote Calculator",
+                    "Customer Dashboard",
+                    "Admin Control Panel",
+                    "Email Notifications"
+                ]
+            },
+            "full": {
+                "name": "Full System + AI",
+                "price": "$5,000",
+                "features": [
+                    "Everything in Core",
+                    "AI Chatbot Agent",
+                    "Automated Follow-ups",
+                    "Review Management",
+                    "Marketing Automations",
+                    "SMS Integration",
+                    "Analytics Dashboard",
+                    "Social Media Manager",
+                    "Priority Support",
+                    "Custom Branding"
+                ]
+            },
+            "maintenance": {
+                "name": "Standard Maintenance",
+                "price": "$150/mo",
+                "features": [
+                    "System Updates",
+                    "Priority Support",
+                    "Daily Backups"
+                ]
+            },
+            "maintenanceSocial": {
+                "name": "Growth & Social",
+                "price": "$350/mo",
+                "features": [
+                    "Weekly Social Posts",
+                    "Ad Campaign Management",
+                    "Content Creation"
+                ]
+            }
+        },
+        "whoIsFor": {
+            "title": "🌟 WHO IS THIS FOR?",
+            "tagline": "If they clean — NexaClean Pro grows their business.",
+            "list": [
+                "Residential cleaning services",
+                "Deep-cleaning companies",
+                "Move-in/move-out cleaners",
+                "Office cleaning companies",
+                "Airbnb turnover cleaners",
+                "Small & medium cleaning agencies",
+                "Solo cleaners who want to scale"
+            ]
+        },
+        "taglines": [
+            "AI That Cleans Up Your Business.",
+            "Your Cleaning Company, Upgraded with Intelligence.",
+            "Smart Websites for the Modern Cleaning Industry.",
+            "Automate. Book More. Grow Faster.",
+            "From Dirty Work to Smart Work."
+        ]
+    },
+    "Home": {
+        "heroTitle": "The Future of AI is Here",
+        "heroSubtitle": "We help businesses leverage artificial intelligence to automate, innovate, and scale.",
+        "cta": "Explore Services"
+    },
+    "TrustedBy": {
+        "title": "Trusted by innovative companies"
+    },
+    "ServicesOverview": {
+        "title": "Our Expertise",
+        "subtitle": "We combine cutting-edge AI technology with strategic business insights to deliver tangible results.",
+        "viewAll": "View All Services",
+        "consultingTitle": "AI Consulting & Strategy",
+        "consultingDesc": "We analyze your business to identify high-impact AI opportunities and create a roadmap for implementation.",
+        "automationTitle": "Business Process Automation",
+        "automationDesc": "Streamline operations with intelligent automation that reduces manual work and errors.",
+        "agentsTitle": "Custom AI Agents",
+        "agentsDesc": "Deploy specialized AI agents that handle customer support, data analysis, and more 24/7.",
+        "marketingTitle": "AI-Powered Marketing",
+        "marketingDesc": "Supercharge your marketing with generative AI for content, personalization, and analytics.",
+        "learnMore": "Learn more"
+    },
+    "Process": {
+        "title": "How We Transform Your Business",
+        "subtitle": "Our proven methodology ensures that every AI initiative delivers measurable value and sustainable growth.",
+        "discoveryTitle": "Discovery",
+        "discoveryDesc": "We dive deep into your business processes to identify bottlenecks and AI opportunities.",
+        "strategyTitle": "Strategy",
+        "strategyDesc": "We design a custom AI implementation plan tailored to your specific goals and infrastructure.",
+        "developmentTitle": "Development",
+        "developmentDesc": "Our engineers build and train your AI solutions using state-of-the-art models and tools.",
+        "deploymentTitle": "Deployment",
+        "deploymentDesc": "We seamlessly integrate the solution into your workflow and provide training for your team."
+    },
+    "AISection": {
+        "title": "Experience the Future of Interaction",
+        "subtitle": "Our website isn't just a brochure—it's a demonstration of what's possible.",
+        "subtitle2": "Interact with our AI-powered tools to get instant recommendations and answers.",
+        "assistantName": "Nexa-Sphere AI Assistant",
+        "assistantGreeting": "Hello! I'm your Nexa-Sphere assistant. How can I help optimize your business today?",
+        "userQuery": "I need a solution to automate my customer support workflow.",
+        "aiResponse": "I recommend our Custom AI Agents service. We can deploy a 24/7 support agent trained on your knowledge base.",
+        "tagResponseTime": "Reduced Response Time",
+        "tagAvailability": "24/7 Availability",
+        "poweredBy": "Powered by Google Gemini",
+        "feature1": "AI Service Recommender: Find the perfect solution for your needs.",
+        "feature2": "Smart FAQ Assistant: Get instant answers to your questions.",
+        "feature3": "Intelligent Contact Form: Draft messages effortlessly.",
+        "cta": "Try AI Tools (Coming Soon)"
+    },
+    "Testimonials": {
+        "title": "Client Success Stories",
+        "subtitle": "See how leading companies are leveraging our AI solutions to drive growth.",
+        "quote1": "Nexa-Sphere transformed our customer support operations. The AI agents handle 80% of inquiries, allowing our team to focus on complex issues.",
+        "role1": "Owner, Vallarta Vows",
+        "quote2": "The strategic insights provided by Nexa-Sphere helped us identify key automation opportunities that saved us over $200k annually.",
+        "role2": "Director of Ops, FutureScale",
+        "quote3": "Implementation was seamless. The team at Nexa-Sphere really understands how to integrate AI into existing enterprise workflows.",
+        "role3": "Product Lead, InnovateX"
+    },
+    "CTASection": {
+        "title": "Ready to Transform Your Business? Let's Talk.",
+        "subtitle": "Join the forward-thinking companies that are already leveraging Nexa-Sphere's AI solutions to dominate their industries.",
+        "primaryBtn": "Book a Free Consultation",
+        "secondaryBtn": "View Case Studies",
+        "note": "No commitment required. Get a custom AI roadmap in our first call."
+    },
+    "LocaleSwitcher": {
+        "label": "Language",
+        "en": "English",
+        "es": "Spanish"
+    },
+    "Footer": {
+        "newsletterTitle": "Stay ahead of the curve",
+        "newsletterDesc": "Join our newsletter to get the latest AI insights, strategies, and industry trends delivered directly to your inbox.",
+        "companyDesc": "Empowering businesses with intelligent AI systems. Based in the heart of Silicon Valley, Fremont, CA.",
+        "servicesTitle": "Services",
+        "consulting": "AI Consulting",
+        "automation": "Process Automation",
+        "chatbots": "Custom Chatbots",
+        "companyTitle": "Company",
+        "about": "About Us",
+        "blog": "Blog",
+        "contact": "Contact",
+        "connectTitle": "Connect",
+        "linkedin": "LinkedIn",
+        "twitter": "Twitter",
+        "contactEmail": "hello@nexa-sphere.com",
+        "copyright": "© {year} Nexa-Sphere. All rights reserved."
+    },
+    "ServicesPage": {
+        "heroBadge": "Our Expertise",
+        "heroTitle": "Transforming Business Through Intelligence",
+        "heroDesc": "Comprehensive AI solutions tailored to drive innovation, efficiency, and growth in your enterprise.",
+        "discussBtn": "Discuss {service}",
+        "services": {
+            "consulting": {
+                "title": "AI Consulting & Strategy",
+                "description": "Navigate the complex landscape of artificial intelligence with our expert guidance. We help you identify high-impact opportunities, assess technical feasibility, and create a roadmap for successful AI adoption.",
+                "f1": "AI Readiness Assessment",
+                "f2": "Strategic Roadmap Development",
+                "f3": "Technology Stack Selection",
+                "f4": "ROI Analysis & Forecasting"
+            },
+            "automation": {
+                "title": "Business Process Automation",
+                "description": "Transform your operations by automating repetitive tasks and workflows. We build intelligent systems that reduce manual effort, minimize errors, and free up your team for strategic work.",
+                "f1": "Workflow Analysis & Optimization",
+                "f2": "RPA (Robotic Process Automation)",
+                "f3": "Intelligent Document Processing",
+                "f4": "Supply Chain Automation"
+            },
+            "agents": {
+                "title": "Custom AI Agents & Chatbots",
+                "description": "Deploy specialized AI agents that understand your business context. From 24/7 customer support to internal knowledge retrieval, our custom agents deliver accurate and personalized interactions.",
+                "f1": "Customer Support Agents",
+                "f2": "Internal Knowledge Assistants",
+                "f3": "Sales & Lead Gen Bots",
+                "f4": "Multi-Platform Integration (Web, Slack, Teams)"
+            },
+            "marketing": {
+                "title": "AI-Powered Marketing Systems",
+                "description": "Supercharge your marketing efforts with generative AI. Create personalized content at scale, optimize ad spend with predictive analytics, and engage customers with hyper-targeted campaigns.",
+                "f1": "Generative Content Engines",
+                "f2": "Personalization Algorithms",
+                "f3": "Predictive Customer Analytics",
+                "f4": "Automated Campaign Management"
+            },
+            "executive-branding": {
+                "title": "AI Executive Branding",
+                "description": "Scale your thought leadership without trading your time. We build personalized AI models that capture your unique voice, enabling you to publish consistent, high-impact professional insights across all channels.",
+                "f1": "Voice Verification & Cloning",
+                "f2": "Thought Leadership Automation",
+                "f3": "LinkedIn & Twitter Strategy",
+                "f4": "Personalized Content Calendar"
+            },
+            "corporate-comms": {
+                "title": "Corporate Comms Automation",
+                "description": "Streamline your organization's internal and external messaging. Whether it's press releases, internal memos, or stakeholder updates, our AI systems ensure perfect tonal consistency and rapid deployment.",
+                "f1": "Automated Press Releases",
+                "f2": "Internal Memo Generation",
+                "f3": "Stakeholder Update Workflows",
+                "f4": "Crisis Communication Templates"
+            },
+            "crisis-management": {
+                "title": "AI Crisis & Reputation Defense",
+                "description": "Protect your brand narrative in real-time. Our sentinel models monitor global sentiment 24/7, detecting potential crises before they spiral and generating molecularly precise response strategies to neutralize negative PR.",
+                "f1": "24/7 Sentiment Surveillance",
+                "f2": "Predictive Crisis Modeling",
+                "f3": "Automated Response Scenarios",
+                "f4": "Brand Health Dashboards"
+            },
+            "global-localization": {
+                "title": "Global Content Localization",
+                "description": "Publish your professional message to the world, instantly. We use context-aware neural translation to adapt your content for 100+ languages, preserving your unique brand voice and cultural nuance in every market.",
+                "f1": "Neural Machine Translation (NMT)",
+                "f2": "Cultural Nuance Adaptation",
+                "f3": "Multi-Language SEO",
+                "f4": "Real-Time Content Sync"
+            },
+            "express-video": {
+                "title": "Express AI Video Production",
+                "description": "Need a high-quality promo video in 2 hours? We leverage tools like Suno, Kling, Pika, and HeyGen to deliver studio-grade 20-second spots starting at just $25.",
+                "f1": "2-Hour Rapid Delivery",
+                "f2": "AI Scriptwriting & Voiceover",
+                "f3": "Cinematic & Corporate Styles",
+                "f4": "Full Music & Subtitles included"
+            },
+            "rapid-website": {
+                "title": "Same-Day AI Web Launch",
+                "description": "Get a professional, SEO-ready website in 24 hours. We combine Hostinger performance, Avada flexibility, and generative AI content to deliver a market-ready presence starting at $150.",
+                "f1": "24-Hour Turnaround",
+                "f2": "Hosting + Domain Setup Included",
+                "f3": "AI Copywriting (ChatGPT/Gemini)",
+                "f4": "WordPress + Avada Architecture"
+            },
+            "mini-automation": {
+                "title": "AI Automation Mini Setup",
+                "description": "Jumpstart your efficiency for just $100. We set up your essential automated workflows for social media and sales, turning your passive channels into active growth engines.",
+                "f1": "Social Auto-Posting (IG/TikTok)",
+                "f2": "Sales Chatbot Implementation",
+                "f3": "Email Marketing Automation",
+                "f4": "Auto-Generated Content Scripts"
+            },
+            "business-starter": {
+                "title": "AI Business Starter Kit",
+                "description": "Launch your brand today for just $500. We provide everything you need to go from zero to one: Logo, visual assets, landing page, promo video, and a 7-day content strategy.",
+                "f1": "AI Logo & 5 Professional Images",
+                "f2": "Mini Landing Page (One-Pager)",
+                "f3": "30s AI Presentation Video",
+                "f4": "7-Day Social Media Content Plan"
+            }
+        }
+    },
+    "ServicesBundles": {
+        "title": "🚀 Nexa-Sphere AI Web & Marketing Bundles",
+        "subtitle": "All bundles are AI-Powered · Conversion-Focused · Scalable",
+        "bundles": {
+            "starter": {
+                "name": "AI Launch Starter",
+                "badge": "🟢 BUNDLE 1",
+                "bestFor": "Small businesses, solopreneurs",
+                "goal": "Get online fast + capture leads",
+                "price": "$1,299",
+                "maintenance": "+ $100/mo maintenance",
+                "shortFeatures": [
+                    "5-Page AI Website",
+                    "Basic AI Chatbot",
+                    "Smart Contact Forms",
+                    "6 Social Media Posts"
+                ],
+                "modules": [
+                    {
+                        "title": "1️⃣ AI-Optimized Website (5 Pages)",
+                        "items": [
+                            "Home, Services, About, Contact, Lead Page",
+                            "Modern UI/UX (mobile-first)",
+                            "SEO-ready structure"
+                        ]
+                    },
+                    {
+                        "title": "2️⃣ AI Chatbot (Lead Assistant)",
+                        "items": [
+                            "Trained on business info",
+                            "Captures: Name, Email, Phone",
+                            "Auto-responds 24/7"
+                        ]
+                    }
+                ],
+                "outcome": [
+                    "✔ Professional online presence",
+                    "✔ Leads captured automatically"
+                ]
+            },
+            "growth": {
+                "name": "AI Growth Accelerator",
+                "badge": "🔵 BUNDLE 2",
+                "bestFor": "Growing businesses & agencies",
+                "goal": "Automate leads + marketing",
+                "price": "$2,500",
+                "maintenance": "+ $300/mo growth plan",
+                "shortFeatures": [
+                    "8-10 Page Advanced Site",
+                    "Smart Sales Chatbot",
+                    "12 Social Posts + 6 Reels",
+                    "Email Marketing Automation"
+                ],
+                "modules": [
+                    {
+                        "title": "1️⃣ Advanced Website (8–10 Pages)",
+                        "items": [
+                            "UX-driven conversion layout",
+                            "Analytics (GA4 + events)"
+                        ]
+                    },
+                    {
+                        "title": "2️⃣ AI Sales Chatbot",
+                        "items": [
+                            "Qualifies leads (budget, intent)",
+                            "CRM integration"
+                        ]
+                    }
+                ],
+                "outcome": [
+                    "✔ Predictable lead flow",
+                    "✔ Automated follow-ups"
+                ]
+            },
+            "dominator": {
+                "name": "AI Market Dominator",
+                "badge": "🟣 BUNDLE 3",
+                "bestFor": "Franchises & SaaS",
+                "goal": "Full automation + aggressive growth",
+                "price": "$5,000",
+                "maintenance": "+ $500/mo AI Ops",
+                "shortFeatures": [
+                    "Enterprise Custom Site",
+                    "Full Sales Agent Bot",
+                    "30+ Posts & 15 Reels",
+                    "Full CRM & Ads Automation"
+                ],
+                "modules": [
+                    {
+                        "title": "1️⃣ Enterprise Website",
+                        "items": [
+                            "Custom UI/UX + Funnels",
+                            "A/B Testing structure"
+                        ]
+                    },
+                    {
+                        "title": "2️⃣ Advanced AI Agent",
+                        "items": [
+                            "Books appointments",
+                            "WhatsApp integration"
+                        ]
+                    }
+                ],
+                "outcome": [
+                    "✔ Business runs 24/7 with AI",
+                    "✔ Scalable system"
+                ]
+            }
+        },
+        "comparison": {
+            "title": "Compare Plans",
+            "subtitle": "Detailed breakdown of what's included.",
+            "headers": [
+                "Feature",
+                "Starter",
+                "Growth",
+                "Dominator"
+            ],
+            "rows": [
+                {
+                    "name": "Website Pages",
+                    "starter": "5 Pages",
+                    "growth": "8-10 Pages",
+                    "dominator": "Custom / Enterprise"
+                },
+                {
+                    "name": "AI Chatbot",
+                    "starter": "Basic Lead Capture",
+                    "growth": "Smart Sales Funnel",
+                    "dominator": "Full Sales Agent"
+                },
+                {
+                    "name": "Social Posts (Monthly)",
+                    "starter": "6 Posts",
+                    "growth": "12 Posts",
+                    "dominator": "30+ Posts"
+                },
+                {
+                    "name": "Video Reels (Monthly)",
+                    "starter": "2 Reels",
+                    "growth": "6 Reels",
+                    "dominator": "15+ Reels"
+                },
+                {
+                    "name": "Email Automation",
+                    "starter": "—",
+                    "growth": "5-Email Sequence",
+                    "dominator": "Full CRM Flows"
+                },
+                {
+                    "name": "Smart Forms",
+                    "starter": "Basic Logic",
+                    "growth": "Multi-step Funnel",
+                    "dominator": "Enterprise Lead Gen"
+                },
+                {
+                    "name": "Analytics",
+                    "starter": "Basic Setup",
+                    "growth": "GA4 + Tracking",
+                    "dominator": "Monthly Deep Dive"
+                },
+                {
+                    "name": "CRM Integration",
+                    "starter": "Ready (Zapier)",
+                    "growth": "Full Integration",
+                    "dominator": "Custom Workflows"
+                },
+                {
+                    "name": "Appointment Booking",
+                    "starter": "Link Integration",
+                    "growth": "Calendar Sync",
+                    "dominator": "AI Auto-Booking"
+                }
+            ]
+        },
+        "cta": "Get Started"
+    },
+    "AboutPage": {
+        "heroBadge": "Who We Are",
+        "heroTitle": "Pioneering the Future of Artificial Intelligence",
+        "heroDesc": "We are a team of engineers, data scientists, and strategists dedicated to bringing the power of AI to modern businesses.",
+        "leadershipTitle": "Leadership Team",
+        "leadershipDesc": "Meet the visionaries driving Nexa-Sphere forward.",
+        "roles": {
+            "ceo": "Chief Executive Officer",
+            "cpo": "Chief Product Officer",
+            "people": "Chief People Officer",
+            "analyst": "Chief Analyst"
+        },
+        "missionTitle": "Our Mission",
+        "missionDesc1": "At Nexa-Sphere, our mission is to democratize access to advanced artificial intelligence. We believe that AI shouldn't be a black box reserved for tech giants.",
+        "missionDesc2": "We strive to build transparent, ethical, and highly effective AI systems that solve real-world problems and drive sustainable growth for our clients.",
+        "stats": {
+            "projects": "Projects Delivered",
+            "retention": "Client Retention",
+            "support": "Support Coverage",
+            "roi": "ROI Average"
+        },
+        "whyTitle": "Why Choose Us?",
+        "whyDesc": "We don’t just write code; we build partnerships.",
+        "reasons": {
+            "r1_title": "Silicon Valley Expertise",
+            "r1_desc": "We're not just about technology; but about creating systems that solve real problems. It's about returning time to people so they can focus on what they do best: creating, leading, and innovating.",
+            "r2_title": "Tailored Solutions",
+            "r2_desc": "We don't believe in one-size-fits-all. Every solution is custom-architected for your needs.",
+            "r3_title": "Ethical AI First",
+            "r3_desc": "We prioritize safety, privacy, and transparency in every model we deploy."
+        }
+    },
+    "BlogPage": {
+        "title": "Insights & Intelligence",
+        "subtitle": "Exploring the frontiers of AI, automation, and digital transformation. Stay ahead of the curve with our latest research and updates.",
+        "readTime": "5 min read",
+        "readArticle": "Read Article"
+    },
+    "ContactPage": {
+        "heroTitle": "Get in Touch",
+        "heroDesc": "Ready to start your AI journey? We'd love to hear from you.",
+        "infoTitle": "Contact Information",
+        "headquarters": "Headquarters",
+        "email": "Email",
+        "concierge": {
+            "status": "System Online",
+            "title": "NexaSphere Smart Concierge",
+            "desc": "Experience support from the future. Our advanced neural network is ready to assist you in real-time.",
+            "btn": "Initialize Chat Interface"
+        },
+        "form": {
+            "name": "Name",
+            "namePlaceholder": "John Doe",
+            "email": "Email",
+            "emailPlaceholder": "john@company.com",
+            "subject": "Subject",
+            "subjects": {
+                "general": "General Inquiry",
+                "consulting": "Consulting Services",
+                "partnership": "Partnership",
+                "careers": "Careers"
+            },
+            "message": "Message",
+            "messagePlaceholder": "Tell us about your project...",
+            "btn": "Send Message",
+            "btnLoading": "Sending...",
+            "success": "Message sent successfully!",
+            "error": "Failed to send message."
+        }
+    },
+    "AgencyOfferPage": {
+        "title": "Unstoppable AI Offers",
+        "subtitle": "Scale your business with our tailored growth packages.",
+        "description": "Select the perfect tier to launch, grow, or dominate your market.",
+        "packages": {
+            "agency_ignite": {
+                "name": "Social Ignite",
+                "price": "$120",
+                "badge": "Express Offer",
+                "description": "Perfect for a quick boost and increasing your engagement.",
+                "f1": "1 High-Converting Ad Reel",
+                "f2": "Professional Script + Copy + Hashtags",
+                "f3": "Optimized for TikTok, Instagram & Facebook",
+                "f4": "48-Hour Delivery"
+            },
+            "agency_growth": {
+                "name": "Growth Accelerator",
+                "price": "$350",
+                "badge": "Best Value",
+                "description": "Ideal for brands wanting consistent presence and real growth.",
+                "f1": "3 High-Converting Reels",
+                "f2": "Professional Branding adapted to your style",
+                "f3": "Sales-optimized Call to Actions",
+                "f4": "Professional Voice-over (Male or Female)"
+            },
+            "agency_dominator": {
+                "name": "Market Dominator",
+                "price": "$1,500",
+                "badge": "For Big Players",
+                "description": "Complete monthly growth system for businesses wanting to scale fast.",
+                "f1": "12 Professional Videos (1 every 2–3 days)",
+                "f2": "High-Converting Landing Pages",
+                "f3": "SEO Optimization for Ranking",
+                "f4": "Marketing Automations (Funnels, Nurturing)"
+            },
+            "agency_elite": {
+                "name": "SV Elite System",
+                "price": "$2,500",
+                "badge": "All-In-One",
+                "description": "The ultimate digital infrastructure to dominate your market.",
+                "f1": "6-Page Professional Website (SV Style)",
+                "f2": "AI Chatbot Integration (Sales, Support, Booking)",
+                "f3": "Ready-to-use Email Marketing Templates",
+                "f4": "Complete Monthly Newsletter Setup"
+            }
+        },
+        "cta": "Get Started Now",
+        "faqTitle": "Frequently Asked Questions",
+        "faqSubtitle": "Everything you need to know before getting started.",
+        "faq": {
+            "q1": "What do I need to start with any of the packages?",
+            "a1": "We just need you to complete a brief form with information about your business, target audience, main offer, and social media links. With that, our team can start working immediately.",
+            "q2": "Can I review the content before it's published?",
+            "a2": "Yes. We always send scripts, copy, drafts, and videos in a preliminary version for your review. You can request reasonable adjustments until the content is fully aligned with your brand.",
+            "q3": "What platforms are covered in the packages?",
+            "a3": "All packages are optimized for TikTok, Instagram Reels, and Facebook Reels. In advanced plans, we can adapt formats for YouTube Shorts, vertical ads, or any other short video platform.",
+            "q4": "Who does the voice-over and scripts?",
+            "a4": "We have professional scriptwriters and voice-over artists. Growth Accelerator and above include human voice-over (male or female). If you prefer high-quality AI, that is also possible.",
+            "q5": "What happens if I don't like the result of the first video?",
+            "a5": "Our goal is for you to be delighted. That's why we make necessary adjustments to the script, copy, pacing, visual style, or voice until it meets the quality standard you expect (within the scope of the contracted package).",
+            "q6": "Can I switch packages later?",
+            "a6": "Of course. You can start with Social Ignite and then upgrade to Growth Accelerator or Market Dominator whenever you want to increase your production and results. Scalability is part of the strategy.",
+            "q7": "Are results guaranteed?",
+            "a7": "No one can guarantee specific sales, but we do guarantee: Professional content, Optimized for conversion, Designed with proven digital marketing strategies, and Adapted to current platform behavior. This significantly increases your chances of growth.",
+            "q8": "How is payment and billing handled?",
+            "a8": "Payment can be made via card, bank transfer, or other secure methods. For monthly packages like Market Dominator, we set up recurring billing so your production never stops.",
+            "q9": "How soon do I receive my videos or content?",
+            "a9": "It depends on the package: Social Ignite → 48 hours. Growth Accelerator → 3 to 5 days. Market Dominator → Continuous monthly production. SV Elite System → Timeline agreed upon based on project scope. We always work with maximum efficiency and punctuality.",
+            "q10": "Can I use my own clips, photos, or materials?",
+            "a10": "Yes. You can send us your own materials and we will use them to reinforce your visual identity. We can also generate content from scratch with our own material, premium stock, and/or AI.",
+            "q11": "Do you include copyright-free music?",
+            "a11": "Yes. All videos include royalty-free music or music with a valid commercial license. You will never have problems with copyright claims.",
+            "q12": "Do you offer content in English and Spanish?",
+            "a12": "Yes. We can create all your content: 100% in Spanish, 100% in English, or a Bilingual version. Ideal for businesses selling in the US, LATAM, or both markets."
+        }
+    },
+    "AgencyOnboarding": {
+        "title": "Payment Successful!",
+        "description": "Thank you for joining our agency! To get started immediately, we need a few details about your business.",
+        "formTitle": "Onboarding Information",
+        "businessName": "Business Name",
+        "businessNamePlaceholder": "e.g. Nexa-Sphere Inc.",
+        "businessOwner": "Business Owner Name",
+        "businessOwnerPlaceholder": "e.g. John Doe",
+        "businessCategory": "Business Category",
+        "businessCategoryPlaceholder": "e.g. E-commerce, Real Estate",
+        "businessPhone": "Business Phone Number",
+        "businessPhonePlaceholder": "e.g. +1 555-0123",
+        "website": "Website",
+        "websitePlaceholder": "e.g. www.nexa-sphere.com",
+        "socialLinks": "Social Media Channels",
+        "socialLinksPlaceholder": "Facebook, Instagram, TikTok, Youtube",
+        "offerDetails": "Product/Service Details",
+        "offerDetailsPlaceholder": "Tell us about the product and services you offer with more details...",
+        "files": "Upload Files",
+        "logo": "Upload Logo",
+        "productImages": "Upload Picture of Services or Products",
+        "otherImages": "Other Images",
+        "needContentCreation": "I don't have pictures, please create for me",
+        "submit": "Submit Information",
+        "submitting": "Submitting...",
+        "successTitle": "Information Recieved!",
+        "successMessage": "Our team has received your details and will start working on your strategy. Expect an email from us shortly.",
+        "errorMessage": "There was an error submitting your information. Please try again or contact support.",
+        "returnHome": "Return to Home"
+    },
+    "Login": {
+        "title": "Dashboard Login",
+        "username": "Username",
+        "password": "Password",
+        "signIn": "Sign In",
+        "error": "Invalid credentials"
+    },
+    "AiAgents": {
+        "heroBadge": "The 2026 Standard",
+        "title": "Your Business. Intelligent. 24/7.",
+        "subtitle": "Deploy specialized AI agents that understand your unique context. From customer support to internal knowledge retrieval, automate without losing the human touch.",
+        "whyTitle": "Why Custom Agents?",
+        "whySubtitle": "Generic AI is a toy. Context-aware AI is infrastructure.",
+        "features": {
+            "context": {
+                "title": "Context Mastery",
+                "desc": "Trained on your PDFs, Notion, and website data. It knows your pricing, policies, and history."
+            },
+            "availability": {
+                "title": "Always On",
+                "desc": "24/7/365 availability. Instant responses at 3 AM or 3 PM, in any time zone."
+            },
+            "multimodal": {
+                "title": "Multi-Modal",
+                "desc": "Seamlessly handles text, images, and voice inputs to serve customers naturally."
+            },
+            "omnichannel": {
+                "title": "Omnichannel",
+                "desc": "Deploy on Web, WhatsApp, Slack, or via SMS. Meet your users where they are."
+            },
+            "security": {
+                "title": "Enterprise Secure",
+                "desc": "Your data remains yours. SOC-2 compliant infrastructure with private model options."
+            },
+            "analytics": {
+                "title": "Deep Insights",
+                "desc": "Analyze customer sentiment, common queries, and agent performance in real-time."
+            }
+        },
+        "process": {
+            "title": "How It Works",
+            "step1": "Data Ingestion",
+            "step1Desc": "We securely ingest your documents, URLs, and databases.",
+            "step2": "Fine-Tuning",
+            "step2Desc": "We adapt the model to your tone of voice and business rules.",
+            "step3": "Deployment",
+            "step3Desc": "Launch on your site with a single line of code."
+        },
+        "cta": "Build Your Agent",
+        "learnMore": "See Examples"
+    },
+    "Nexi": {
+        "hero": {
+            "badge": "Nexi • Enterprise AI Agent",
+            "title": "The customer experience platform that never sleeps",
+            "subtitle": "Transform your support with an AI that effectively resolves 80% of inquiries instantly. seamless integration, human-like understanding, and enterprise-grade security.",
+            "cta": "Start Free Trial",
+            "secondaryCta": "View Demo"
+        },
+        "socialProof": "TRUSTED BY INNOVATIVE TEAMS AT",
+        "feature1": {
+            "title": "A centralized command center for customer success",
+            "subtitle": "Manage every interaction from a single, intuitive dashboard. Whether it's live chat, email, or social messaging, Nexi unifies your communication channels so your team can focus on what matters—building relationships.",
+            "cta": "Explore the platform"
+        },
+        "feature2": {
+            "title": "Engage visitors at the perfect moment",
+            "subtitle": "Predictive engagement triggers chat invitations based on visitor behavior. Turn passive browsers into active leads with personalized, AI-driven greetings that feel undeniably human.",
+            "cta": "See engagement tools"
+        },
+        "feature3": {
+            "title": "Support that scales infinitely",
+            "subtitle": "Eliminate wait times. Nexi instantly answers common questions, processes returns, and schedules appointments 24/7. When things get complex, it seamlessly hands off to your human agents with full context.",
+            "cta": "Discover automation"
+        },
+        "integrations": {
+            "title": "Integrates with your existing stack",
+            "subtitle": "Connect Nexi with the tools you already use. Two-click integrations for CRM, Ticketing, and E-commerce platforms."
+        },
+        "analytics": {
+            "title": "Data-driven insights for growth",
+            "subtitle": "Monitor sentiment, resolution times, and conversion rates in real-time. Make informed decisions to optimize your customer journey."
+        },
+        "testimonials": {
+            "title": "They say, changing is never easy. They were wrong.",
+            "quote1": "Nexi reduced our ticket volume by 65% in the first week. It's not just a chatbot; it's our best support agent.",
+            "author1": "Sarah Jenkins, CTO at TechFlow",
+            "quote2": "The set up was incredibly fast. We were live and solving customer issues within 20 minutes.",
+            "author2": "David Ross, Founder of GearUp"
+        },
+        "ctaSection": {
+            "title": "Ready to revolutionize your support?",
+            "subtitle": "Join over 500+ enterprises leveraging Nexi to deliver world-class experiences.",
+            "btn": "Get Started Free"
+        }
+    }
+}

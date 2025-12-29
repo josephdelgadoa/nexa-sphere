@@ -1,0 +1,36 @@
+[
+  {
+    "id": "1765275452250",
+    "timestamp": "2025-12-09T10:17:32.250Z",
+    "businessName": "ASHLEY GREAT GIFTS",
+    "businessOwner": "Yessie Quispe",
+    "businessCategory": "E-commerce",
+    "businessPhone": "9547580512",
+    "website": "https://ashleygreatgifts.com",
+    "socialLinks": "Facebook, Instagram, TikTok and Youtube",
+    "offerDetails": "I want to promote my store online ",
+    "needContentCreation": "true",
+    "files": {
+      "logo": null,
+      "productImages": [],
+      "otherImages": []
+    }
+  },
+  {
+    "id": "1765281634145",
+    "timestamp": "2025-12-09T12:00:34.145Z",
+    "businessName": "ASHLEY GREAT GIFTS",
+    "businessOwner": "Yessie Quispe",
+    "businessCategory": "E-commerce",
+    "businessPhone": "9547580512",
+    "website": "https://ashleygreatgifts.com",
+    "socialLinks": "Facebook, Instagram, Youtube",
+    "offerDetails": "I want to promote my store",
+    "needContentCreation": "true",
+    "files": {
+      "logo": null,
+      "productImages": [],
+      "otherImages": []
+    }
+  }
+]
